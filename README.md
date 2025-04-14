@@ -1,3 +1,5 @@
+Tool for finding astronomical objects at the telescope by hopping from a bright/known star.
+
 Hopper is a Java program. As such it should run on all personal computers provided that a Java Run-time Environment (JRE) version 8 or later has also been installed. If not, get a JRE from www.java.com
 The files provided in Hopper.zip are:
 - ReadMe.txt = this file
@@ -5,3 +7,5 @@ The files provided in Hopper.zip are:
 - Hopper.sh = shell script for running the application in other systems (Linux, MacOS, Solaris, etc)
 - Hopper.jar = all code and resources for the running application
 All you have to do is unzip the file into any directory and (Windows) double-click Hopper.bat or (other systems) launch Hopper.sh
+
+There is a user guide at https://grelf.net/hopper.html
